@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my story and am really exicted to tell you about before i get to be sticking really loaded and a far much great person in future.
+=======
+This is my story and am really exicted to tell you about before i get to be sticking loaded and a far much great person in future.
+>>>>>>> UpdateText
